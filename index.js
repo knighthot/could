@@ -1,1 +1,1 @@
-console.log("makan bang");
+console.log("makan bng");
